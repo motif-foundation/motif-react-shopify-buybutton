@@ -1,8 +1,13 @@
-#buy button
-##Shopify's buy button library adapted for use in dynamic loading cases in React
+# Shopify React Buy button
 
-Remove node-sass and sass to make the library support MAC M1 arm and node 16+
-React component will be updated, for the time being use it this way:
+Shopify's buy button adaptation for use in dynamic loading cases in React.
+
+Component including the naming will be updated for easier use. For the time being use it as below example:
+
+## Install
+npm i @motif-foundation/react-shopify-buybutton --save
+
+## Example
 
 ```
 //ShopifyBuyNow.js
